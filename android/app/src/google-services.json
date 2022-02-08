@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783195510096",
+    "project_id": "authentication-dfc77",
+    "storage_bucket": "authentication-dfc77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783195510096:android:747a63043fb12667b9c855",
+        "android_client_info": {
+          "package_name": "com.kenny_97.P0804"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783195510096-mjtgj89i009habsassre0m134piine13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPOAygFAL65DnEyERje_d4br_MG5aQFkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783195510096-mjtgj89i009habsassre0m134piine13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

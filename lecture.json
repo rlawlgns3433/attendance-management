@@ -1,0 +1,123 @@
+{
+    "lectureinfo" :
+    [
+        {   
+            "lcode" : 1,
+            "lname" : "빅데이터 분석",
+            "day" : 2,
+            "starttime" : 120000,
+            "endtime" : 150000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        },
+        {
+            "lcode" : 2,
+            "lname" : "졸업작품 설계",
+            "day" : 1,
+            "starttime" : 90000,
+            "endtime" : 130000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        },
+        {   
+            "lcode" : 3,
+            "lname" : "모바일 프로그래밍",
+            "day" : 5,
+            "starttime" : 140000,
+            "endtime" : 170000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        },
+
+        {   
+            "lcode" : 4,
+            "lname" : "JSP",
+            "day" : 4,
+            "starttime" : 190000,
+            "endtime" : 210000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        },
+        {   
+            "lcode" : 5,
+            "lname" : "창업아카데미",
+            "day" : 1,
+            "starttime" : 160000,
+            "endtime" : 180000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        },
+        {   
+            "lcode" : 6,
+            "lname" : "영어회화",
+            "day" : 5,
+            "starttime" : 100000,
+            "endtime" : 120000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        },
+        {   
+            "lcode" : 7,
+            "lname" : "졸업 작품 종합 설계",
+            "day" : 1,
+            "starttime" : 90000,
+            "endtime" : 125000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        },
+        {   
+            "lcode" : 8,
+            "lname" : "창업 아카데미",
+            "day" : 1,
+            "starttime" : 160000,
+            "endtime" : 175000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        },
+        {   
+            "lcode" : 9,
+            "lname" : "빅데이터 분석",
+            "day" : 2,
+            "starttime" : 90000,
+            "endtime" : 115000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        },
+        {   
+            "lcode" : 10,
+            "lname" : "객체지향 설계_A",
+            "day" : 3,
+            "starttime" : 100000,
+            "endtime" : 125000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        },
+        {   
+            "lcode" : 11,
+            "lname" : "JSP",
+            "day" : 4,
+            "starttime" : 100000,
+            "endtime" : 125000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        },
+        {   
+            "lcode" : 12,
+            "lname" : "모바일 프로그래밍",
+            "day" : 4,
+            "starttime" : 140000,
+            "endtime" : 165000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        },
+        {   
+            "lcode" : 13,
+            "lname" : "객체지향 설계",
+            "day" : 1,
+            "starttime" : 130000,
+            "endtime" : 160000,
+            "latitude" : 37.4596,
+            "longitude" : 127.1287
+        }
+    ]
+}

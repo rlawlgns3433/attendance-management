@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "DUA",
+    "slug": "DUA",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/playstore.png",
+    "splash": {
+      "image": "./assets/splashAutumn.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.kenny_97.P0810"
+    },
+    "ios": {
+      "bundleIdentifier": "DUA"
+    }
+  },
+  "name": "DUA"
+}
